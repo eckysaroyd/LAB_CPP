@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="FIRSTWORKSPACE" Database="" Version="10000">
+  <Project Name="FIRSTWORKSPACE" Path="FIRSTWORKSPACE/FIRSTWORKSPACE.project" Active="Yes"/>
+  <Project Name="FIRSTWORKSPACE" Path="FIRSTWORKSPACE/FIRSTWORKSPACE.project" Active="Yes"/>
+  <Project Name="FIRSTWORKSPACE" Path="FIRSTWORKSPACE/FIRSTWORKSPACE.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="FIRSTWORKSPACE" ConfigName="Debug"/>
+      <Project Name="FIRSTWORKSPACE" ConfigName="Debug"/>
+      <Project Name="FIRSTWORKSPACE" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="FIRSTWORKSPACE" ConfigName="Release"/>
+      <Project Name="FIRSTWORKSPACE" ConfigName="Release"/>
+      <Project Name="FIRSTWORKSPACE" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
