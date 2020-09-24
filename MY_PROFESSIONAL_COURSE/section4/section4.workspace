@@ -3,7 +3,8 @@
   <Project Name="project1" Path="project1/project1.project" Active="No"/>
   <Project Name="project2" Path="project2/project2.project" Active="No"/>
   <Project Name="first_Program" Path="first_Program/first_Program.project" Active="No"/>
-  <Project Name="Compiler_warning" Path="Compiler_warning/Compiler_warning.project" Active="Yes"/>
+  <Project Name="Compiler_warning" Path="Compiler_warning/Compiler_warning.project" Active="No"/>
+  <Project Name="linker_errors" Path="linker_errors/linker_errors.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug" Selected="yes">
       <Environment/>
@@ -11,6 +12,7 @@
       <Project Name="project2" ConfigName="Debug"/>
       <Project Name="first_Program" ConfigName="Debug"/>
       <Project Name="Compiler_warning" ConfigName="Debug"/>
+      <Project Name="linker_errors" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release" Selected="yes">
       <Environment/>
@@ -18,6 +20,7 @@
       <Project Name="project2" ConfigName="Release"/>
       <Project Name="first_Program" ConfigName="Release"/>
       <Project Name="Compiler_warning" ConfigName="Release"/>
+      <Project Name="linker_errors" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
